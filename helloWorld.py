@@ -7,7 +7,3 @@ multi line comment line2
 
 #Simple helloWorld
 print("hello World")
-
-
-
-
